@@ -1,5 +1,6 @@
-In this lecture, Peng will give a detailed explanation of L1 norm. Especially, the reason of why L1 norm can help get a sparse or robust solution 
-is discussed. Based on the discussion, the models of robust PCA, sparse PCA and robust sparse PCA are introduced.
+In this lecture, Peng will give a detailed explanation of L1 norm. Especially, the reason of why L1 norm 
+can help get a sparse or robust solution is discussed. Based on the discussion, the models of robust PCA, 
+sparse PCA and robust sparse PCA are introduced.
 
 The paper titled "A Robust and Sparse Process Fault Detection Method Based on RSPCA" by Peng is presented.
 
